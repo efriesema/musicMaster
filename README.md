@@ -1,3 +1,7 @@
+Author : Ed Friesema  Created: 2/15/2017
+
+I created this application to better understand SPotify and the Spotify Web API
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
