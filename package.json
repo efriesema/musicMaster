@@ -2,6 +2,7 @@
   "name": "musicMaster",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://efriesema.github.io",
   "devDependencies": {
     "react-scripts": "0.9.3"
   },
