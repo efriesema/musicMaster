@@ -113,3 +113,9 @@ body {
         opacity: 0.8;
     }
 }
+
+@media only screen and (max-width:800px){
+    #input input[type='text']{
+        width:98%;
+    }
+}

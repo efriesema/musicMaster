@@ -72,10 +72,8 @@ class App extends Component{
                                 tracks={this.state.tracks}
                             />
                         </div>
-                    : <div></div>
-                    
-                }
-                
+                    : <div></div>             
+                }        
             </div>
         )
     }
